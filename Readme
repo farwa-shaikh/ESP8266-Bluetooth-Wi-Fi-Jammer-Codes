@@ -1,0 +1,5 @@
+Note: You can use an external power source, such as a small LiPo battery, to power the module.
+
+Caution: The nRF24L01 module can become quite hot while operating. This is normal and doesn’t affect its performance, but avoid touching it directly as it may feel very warm.
+
+Disclaimer: This project is intended only for educational purposes. Any unauthorized or unlawful use is strictly prohibited. Please ensure you comply with your country’s regulations and follow ethical practices.
